@@ -114,7 +114,7 @@ public class ProblemALG004r {
         int n = s.nextInt();
         System.out.println("Enter the number of rotation(from 1 - 3 max): ");
         int rotation = s.nextInt();
-        System.out.println("Enter the numbers you wish to be in your square:");
+        System.out.println("Enter the numbers you wish to be in your square(NB: seperate by space after each number):");
 
         ProblemALG004r solution = new ProblemALG004r(n, rotation);
 
